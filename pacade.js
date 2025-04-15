@@ -1,5 +1,5 @@
 /**
- * Facade Pattern Example
+ * Facade Pattern: Structural Design Pattern
  *
  * The Facade pattern provides a simplified interface to a complex subsystem.
  * It acts as a unified interface to a set of interfaces in a subsystem.
